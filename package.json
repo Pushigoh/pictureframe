@@ -1,0 +1,13 @@
+{
+	"name": "pictureframe",
+	"version": "0.0.1",
+	"description": "Checks if picture for pictureframe was modified",
+	"dependencies": {
+		"ejs": "^2.5.6",
+		"express": "^4.15.2",
+		"glob": "^7.1.2",
+		"req": "^0.1.4",
+		"socket.io": "^2.0.3",
+		"twig": "^1.10.5"
+	}
+}
